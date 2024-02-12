@@ -1,8 +1,4 @@
 ii
 d
 
-<<<<<<< HEAD
 hi am from computer
-=======
-hi edited into github pull this one
->>>>>>> 5390dc245f72063e96401b5d325a6bd7b4c5c516
